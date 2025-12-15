@@ -1,0 +1,18 @@
+{
+    "coins": 280,
+    "inventory": [
+        "default_player",
+        "default_smart",
+        "default_patrol",
+        "default_tile"
+    ],
+    "equipped": {
+        "player": "default_player",
+        "enemy": "default_smart",
+        "patrol": "default_patrol",
+        "tile": "default_tile",
+        "boss": "default_boss",
+        "story": null
+    },
+    "unlocked_levels": 1
+}
